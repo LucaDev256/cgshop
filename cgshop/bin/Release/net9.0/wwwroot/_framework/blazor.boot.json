@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "cgshop",
   "resources": {
-    "hash": "sha256-YxwbwStXky1ESnfTtu0EH6jSPomi/so0XXYGC5+yUR8=",
+    "hash": "sha256-irYjg3wzXK1Jkq4sguUFgM8+VD7fEq43+AJ/X2yrZB4=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.ag393jzyei.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.6n06tqyzkk.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -204,8 +204,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "cgshop.cwb6wfgixl.wasm": "cgshop.wasm",
-      "cgshop.w93ehpnk0s.pdb": "cgshop.pdb"
+      "cgshop.z3rng7lyzg.wasm": "cgshop.wasm",
+      "cgshop.qqztyw3587.pdb": "cgshop.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.l1ds2rhypd.js": "sha256-CU8oL4L0VAwGe3hCyxZDy7keJq9dcsWED0JKqrvlUb4="
@@ -418,10 +418,10 @@
       "WindowsBase.p8fley4coh.wasm": "sha256-aRYzLqbGeHVYVMueB/ppfGVKTJ8jPRnWCHEGfFXiSG4=",
       "mscorlib.gr56bjb982.wasm": "sha256-rGm+fePHcRdNKLvNvl2ALv504HZc6ufZZqaXcOLo8HQ=",
       "netstandard.3vbiim3d7s.wasm": "sha256-j+YhS0xT+ZUStadRqdIFX5q3MfD09IJhCcEkJ3y3Kh0=",
-      "cgshop.cwb6wfgixl.wasm": "sha256-RELxpu6pWF+anMLJ3pxrcJQPCzBhczjwEUlrw/EpJ6k="
+      "cgshop.z3rng7lyzg.wasm": "sha256-AbvGU1gRBcjqK9Zl1hmCBikwavur7VTrMk/GW+IdMSM="
     },
     "pdb": {
-      "cgshop.w93ehpnk0s.pdb": "sha256-FC0viSf+LJ1a6IWBoUWVW2/5khLXlYhp0dDCrYovLBU="
+      "cgshop.qqztyw3587.pdb": "sha256-MqzZ20DZqhtpJ7oUBR7vgrGfI4EMZKemqUHyXfnaRwE="
     }
   },
   "cacheBootResources": true,
