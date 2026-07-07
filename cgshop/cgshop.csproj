@@ -8,6 +8,7 @@
 
 	<PropertyGroup>
 		<StaticWebAssetBasePath>cgshop</StaticWebAssetBasePath>
+		<BlazorWebAssemblyLazyLoadAssemblies>false</BlazorWebAssemblyLazyLoadAssemblies>
 	</PropertyGroup>
 
 
