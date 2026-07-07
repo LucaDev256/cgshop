@@ -10,7 +10,6 @@
 		<StaticWebAssetBasePath>cgshop</StaticWebAssetBasePath>
 		<BlazorWebAssemblyLazyLoadAssemblies>false</BlazorWebAssemblyLazyLoadAssemblies>
 		<PublishTrimmed>false</PublishTrimmed>
-
 	</PropertyGroup>
 
 
