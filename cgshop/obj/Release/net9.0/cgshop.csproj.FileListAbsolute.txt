@@ -827,7 +827,6 @@ T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\tzxjg6is5z-
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\0wz98yz2xy-a4sy8psjxz.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\o7k4cxtn0u-nla2550lvf.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\m2q65x6qr1-81sotqnb8s.gz
-T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\exmth8vco1-5guus7bvo4.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\tfxnbunjj1-md9yvkcqlf.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\poo60t24o2-ag393jzyei.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\7omwg2vpay-6n06tqyzkk.gz
@@ -1042,11 +1041,12 @@ T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\cgshop.dll
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\refint\cgshop.dll
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\cgshop.pdb
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\ref\cgshop.dll
-T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.8y0bk8hotk.wasm
-T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.oal034pewr.pdb
-T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.8y0bk8hotk.wasm.gz
-T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.oal034pewr.pdb.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\cgshop.sourcelink.json
-T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\uc0rrgpxzm-8y0bk8hotk.gz
-T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\ej6iqdcbcw-oal034pewr.gz
-T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\45upccim0i-005l0gmv87.gz
+T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.oacnfbymyd.wasm
+T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.2vg7idfy0h.pdb
+T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.oacnfbymyd.wasm.gz
+T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.2vg7idfy0h.pdb.gz
+T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\exmth8vco1-1ovccpjy2o.gz
+T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\uc0rrgpxzm-oacnfbymyd.gz
+T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\ej6iqdcbcw-2vg7idfy0h.gz
+T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\45upccim0i-oqhj40fupt.gz

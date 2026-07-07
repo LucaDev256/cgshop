@@ -5,7 +5,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>cgshop</title>
-    <base href="/cgshop/" />
+    <base href="/" />
+    <environment include="Staging, Production">
+        <base href="/cgshop/" />
+    </environment>
     <link rel="stylesheet" href="css/app.css" />
     <link href="_content/MudBlazor/MudBlazor.min.css" rel="stylesheet" />
     <!-- If you add any scoped CSS files, uncomment the following to load them

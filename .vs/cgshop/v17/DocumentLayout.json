@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "cgshop\\wwwroot\\index.html",
               "ToolTip": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\wwwroot\\index.html",
               "RelativeToolTip": "cgshop\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-07-06T21:34:17.344Z",
               "EditorCaption": ""
@@ -43,7 +43,8 @@
               "RelativeToolTip": "cgshop\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T21:33:28.023Z"
+              "WhenOpened": "2026-07-06T21:33:28.023Z",
+              "EditorCaption": ""
             }
           ]
         }
