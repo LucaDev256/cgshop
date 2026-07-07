@@ -202,8 +202,6 @@ T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\dot
 T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.ym1xgi4kl1.wasm
-T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.byaktmvt5p.pdb
 T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json
 T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.ag393jzyei.wasm.gz
@@ -409,8 +407,6 @@ T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\dot
 T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.ym1xgi4kl1.wasm.gz
-T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.byaktmvt5p.pdb.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\cgshop.staticwebassets.runtime.json
 T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\cgshop.staticwebassets.endpoints.json
@@ -1036,9 +1032,6 @@ T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\hm3kbfv0f4-
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\wy3rg4ghxk-tjcz0u77k5.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\stvngxtzf8-tptq2av103.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\vy4yae17fr-lfu7j35m59.gz
-T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\uc0rrgpxzm-ym1xgi4kl1.gz
-T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\ej6iqdcbcw-byaktmvt5p.gz
-T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\45upccim0i-ffkxu57pdv.gz
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\staticwebassets.build.json
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\staticwebassets.build.json.cache
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\staticwebassets.development.json
@@ -1049,3 +1042,11 @@ T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\cgshop.dll
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\refint\cgshop.dll
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\cgshop.pdb
 T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\ref\cgshop.dll
+T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.8y0bk8hotk.wasm
+T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.oal034pewr.pdb
+T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.8y0bk8hotk.wasm.gz
+T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\wwwroot\_framework\cgshop.oal034pewr.pdb.gz
+T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\cgshop.sourcelink.json
+T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\uc0rrgpxzm-8y0bk8hotk.gz
+T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\ej6iqdcbcw-oal034pewr.gz
+T:\Projects\Code\C#\apps\cgshop\cgshop\obj\Release\net9.0\compressed\45upccim0i-005l0gmv87.gz
