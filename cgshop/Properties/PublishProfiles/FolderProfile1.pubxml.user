@@ -3,7 +3,7 @@
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>T:\Projects\Code\C#\apps\cgshop\cgshop\bin\Release\net9.0\1\publish</_PublishTargetUrl>
-    <History>True|2026-07-10T06:04:58.4383252Z||;True|2026-07-07T03:20:32.2793927+01:00||;True|2026-07-07T02:13:12.3026911+01:00||;True|2026-07-07T02:11:25.6059914+01:00||;True|2026-07-07T02:08:28.7097934+01:00||;True|2026-07-07T02:01:06.3635108+01:00||;</History>
+    <History>True|2026-07-10T06:06:37.2997906Z||;True|2026-07-10T07:04:58.4383252+01:00||;True|2026-07-07T03:20:32.2793927+01:00||;True|2026-07-07T02:13:12.3026911+01:00||;True|2026-07-07T02:11:25.6059914+01:00||;True|2026-07-07T02:08:28.7097934+01:00||;True|2026-07-07T02:01:06.3635108+01:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
