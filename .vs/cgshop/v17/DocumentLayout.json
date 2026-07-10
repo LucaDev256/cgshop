@@ -46,8 +46,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 166,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -66,8 +74,8 @@
               "Title": "cgshop.csproj",
               "DocumentMoniker": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\cgshop.csproj",
               "RelativeDocumentMoniker": "cgshop\\cgshop.csproj",
-              "ToolTip": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\cgshop.csproj*",
-              "RelativeToolTip": "cgshop\\cgshop.csproj*",
+              "ToolTip": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\cgshop.csproj",
+              "RelativeToolTip": "cgshop\\cgshop.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-07-10T06:12:56.568Z",
@@ -81,7 +89,7 @@
               "RelativeDocumentMoniker": "cgshop\\wwwroot\\index.html",
               "ToolTip": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\wwwroot\\index.html",
               "RelativeToolTip": "cgshop\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-07-10T06:04:29.035Z",
               "EditorCaption": ""
