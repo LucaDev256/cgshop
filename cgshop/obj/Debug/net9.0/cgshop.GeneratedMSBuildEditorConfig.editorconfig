@@ -27,6 +27,18 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[T:/Projects/Code/C\#/apps/cgshop/cgshop/Components/Product.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Projects/Code/C\#/apps/cgshop/cgshop/Layout/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[T:/Projects/Code/C\#/apps/cgshop/cgshop/Layout/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEhlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [T:/Projects/Code/C\#/apps/cgshop/cgshop/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
