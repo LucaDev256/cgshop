@@ -2,7 +2,6 @@ wwwroot\css\app.css
 wwwroot\data\Paths.json
 wwwroot\data\Products.json
 wwwroot\icon-192.png
-wwwroot\index.html
 wwwroot\media\branding.png
 wwwroot\media\marketplaces\amazon.png
 wwwroot\media\marketplaces\ebay.png
@@ -10,6 +9,7 @@ wwwroot\media\marketplaces\etsy.png
 wwwroot\media\marketplaces\tik-tok.png
 wwwroot\media\marketplaces\vinted.png
 wwwroot\media\noimgfound.png
+wwwroot\index.html
 T:\Projects\Code\C#\apps\cgshop\cgshop\wwwroot\css\app.css
 T:\Projects\Code\C#\apps\cgshop\cgshop\wwwroot\data\Paths.json
 T:\Projects\Code\C#\apps\cgshop\cgshop\wwwroot\data\Products.json

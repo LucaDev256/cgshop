@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "cgshop",
   "resources": {
-    "hash": "sha256-9l8BKDhvgqeH6Otbn2Bc9KGlEWkXZT7wBUPqn+Z2D7M=",
+    "hash": "sha256-4LBNSo5KcM80cxbfHJWVtqUbGVWsZ8Hw2D8hhnS3rx0=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.ag393jzyei.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.3i65linxal.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -197,7 +197,7 @@
       "mscorlib.gr56bjb982.wasm": "mscorlib.wasm",
       "netstandard.3vbiim3d7s.wasm": "netstandard.wasm",
       "System.Private.CoreLib.qu08xrcyv1.wasm": "System.Private.CoreLib.wasm",
-      "cgshop.a371se8jhf.wasm": "cgshop.wasm",
+      "cgshop.sfp4mfn8uf.wasm": "cgshop.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.l1ds2rhypd.js": "dotnet.native.js",
       "dotnet.native.etgrtk5jba.wasm": "dotnet.native.wasm",
@@ -417,7 +417,7 @@
       "WindowsBase.p8fley4coh.wasm": "sha256-aRYzLqbGeHVYVMueB/ppfGVKTJ8jPRnWCHEGfFXiSG4=",
       "mscorlib.gr56bjb982.wasm": "sha256-rGm+fePHcRdNKLvNvl2ALv504HZc6ufZZqaXcOLo8HQ=",
       "netstandard.3vbiim3d7s.wasm": "sha256-j+YhS0xT+ZUStadRqdIFX5q3MfD09IJhCcEkJ3y3Kh0=",
-      "cgshop.a371se8jhf.wasm": "sha256-Jq6HJPSQpRRW/r538iwkBCRGHl+pButCgLUGR2AfDWY="
+      "cgshop.sfp4mfn8uf.wasm": "sha256-yDstMDLxIuoFmQQ9kIFPhW9ghnLpjY8Nbst1PMH4xP8="
     }
   },
   "cacheBootResources": true,
