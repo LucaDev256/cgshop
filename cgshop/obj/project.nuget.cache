@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sVegTvdre10=",
+  "dgSpecHash": "AbX3JOKZWSM=",
   "success": true,
   "projectFilePath": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\cgshop.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jwrig\\.nuget\\packages\\blazorwasmbrotliloader.build\\1.0.3\\blazorwasmbrotliloader.build.1.0.3.nupkg.sha512",
     "C:\\Users\\jwrig\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.14\\microsoft.aspnetcore.authorization.9.0.14.nupkg.sha512",
     "C:\\Users\\jwrig\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.14\\microsoft.aspnetcore.components.9.0.14.nupkg.sha512",
     "C:\\Users\\jwrig\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\9.0.14\\microsoft.aspnetcore.components.analyzers.9.0.14.nupkg.sha512",
@@ -32,7 +33,8 @@
     "C:\\Users\\jwrig\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.14\\microsoft.jsinterop.webassembly.9.0.14.nupkg.sha512",
     "C:\\Users\\jwrig\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.14\\microsoft.net.illink.tasks.9.0.14.nupkg.sha512",
     "C:\\Users\\jwrig\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.14\\microsoft.net.sdk.webassembly.pack.9.0.14.nupkg.sha512",
-    "C:\\Users\\jwrig\\.nuget\\packages\\mudblazor\\9.6.0\\mudblazor.9.6.0.nupkg.sha512"
+    "C:\\Users\\jwrig\\.nuget\\packages\\mudblazor\\9.6.0\\mudblazor.9.6.0.nupkg.sha512",
+    "C:\\Users\\jwrig\\.nuget\\packages\\publishspaforgithubpages.build\\3.0.3\\publishspaforgithubpages.build.3.0.3.nupkg.sha512"
   ],
   "logs": []
 }

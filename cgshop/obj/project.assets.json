@@ -2,6 +2,12 @@
   "version": 3,
   "targets": {
     "net9.0": {
+      "BlazorWasmBrotliLoader.Build/1.0.3": {
+        "type": "package",
+        "build": {
+          "build/BlazorWasmBrotliLoader.Build.targets": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/9.0.14": {
         "type": "package",
         "dependencies": {
@@ -488,10 +494,26 @@
         },
         "buildMultiTargeting": {
           "buildMultiTargeting/MudBlazor.props": {}
+        }
+      },
+      "PublishSPAforGitHubPages.Build/3.0.3": {
+        "type": "package",
+        "dependencies": {
+          "BlazorWasmBrotliLoader.Build": "1.0.3"
+        },
+        "build": {
+          "build/PublishSPAforGitHubPages.Build.props": {},
+          "build/PublishSPAforGitHubPages.Build.targets": {}
         }
       }
     },
     "net9.0/browser-wasm": {
+      "BlazorWasmBrotliLoader.Build/1.0.3": {
+        "type": "package",
+        "build": {
+          "build/BlazorWasmBrotliLoader.Build.targets": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/9.0.14": {
         "type": "package",
         "dependencies": {
@@ -978,11 +1000,42 @@
         },
         "buildMultiTargeting": {
           "buildMultiTargeting/MudBlazor.props": {}
+        }
+      },
+      "PublishSPAforGitHubPages.Build/3.0.3": {
+        "type": "package",
+        "dependencies": {
+          "BlazorWasmBrotliLoader.Build": "1.0.3"
+        },
+        "build": {
+          "build/PublishSPAforGitHubPages.Build.props": {},
+          "build/PublishSPAforGitHubPages.Build.targets": {}
         }
       }
     }
   },
   "libraries": {
+    "BlazorWasmBrotliLoader.Build/1.0.3": {
+      "sha512": "y2YeK11GHnop6JAjPCVXZ2PUPinPHmrIW4tfh4d1aukeWG/wpK0RqoOQZWbvVWl2UFzUNm6NiH3tRWyHEGlTPA==",
+      "type": "package",
+      "path": "blazorwasmbrotliloader.build/1.0.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "blazorwasmbrotliloader.build.1.0.3.nupkg.sha512",
+        "blazorwasmbrotliloader.build.nuspec",
+        "build/BlazorWasmBrotliLoader.Build.targets",
+        "bundle/scripts/brotliloader.js",
+        "bundle/scripts/brotliloader.min.js",
+        "bundle/scripts/decode.js",
+        "bundle/scripts/decode.min.js",
+        "nupkg-icon.png",
+        "tools/BlazorWasmBrotliLoader.Build.dll",
+        "tools/BrotliSharpLib.dll"
+      ]
+    },
     "Microsoft.AspNetCore.Authorization/9.0.14": {
       "sha512": "AKLixINS8EnGTDY3OxXOn0y10J9u3ftDgr8WeHfQNg9/oZ5fzVXOfQ7jVd/dK0WQfemRoMSkxNbBddNoOlvySg==",
       "type": "package",
@@ -1929,6 +1982,23 @@
         "staticwebassets/MudBlazor.min.js",
         "staticwebassets/MudBlazor.min.js.map"
       ]
+    },
+    "PublishSPAforGitHubPages.Build/3.0.3": {
+      "sha512": "jLLbNGUBriKw+ADNdeYqdDK+l6cAL1OoplzRhQL6WpaczN6SvdJXd3DcbIMQpAwjb7Fh2KsKIQN/kTqeQXYX1w==",
+      "type": "package",
+      "path": "publishspaforgithubpages.build/3.0.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/PublishSPAforGitHubPages.Build.props",
+        "build/PublishSPAforGitHubPages.Build.targets",
+        "nupkg-icon.png",
+        "publishspaforgithubpages.build.3.0.3.nupkg.sha512",
+        "publishspaforgithubpages.build.nuspec",
+        "tools/PublishSPAforGitHubPages.Build.dll"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -1937,7 +2007,8 @@
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 9.0.14",
       "Microsoft.NET.ILLink.Tasks >= 9.0.14",
       "Microsoft.NET.Sdk.WebAssembly.Pack >= 9.0.14",
-      "MudBlazor >= 9.6.0"
+      "MudBlazor >= 9.6.0",
+      "PublishSPAforGitHubPages.Build >= 3.0.3"
     ]
   },
   "packageFolders": {
@@ -2015,6 +2086,10 @@
           "MudBlazor": {
             "target": "Package",
             "version": "[9.6.0, )"
+          },
+          "PublishSPAforGitHubPages.Build": {
+            "target": "Package",
+            "version": "[3.0.3, )"
           }
         },
         "imports": [
