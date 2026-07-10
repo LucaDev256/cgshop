@@ -9,34 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|t:\\projects\\code\\c#\\apps\\cgshop\\cgshop\\cgshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|solutionrelative:cgshop\\cgshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|t:\\projects\\code\\c#\\apps\\cgshop\\cgshop\\cgshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|solutionrelative:cgshop\\cgshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|t:\\projects\\code\\c#\\apps\\cgshop\\cgshop\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|solutionrelative:cgshop\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|t:\\projects\\code\\c#\\apps\\cgshop\\cgshop\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|solutionrelative:cgshop\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|t:\\projects\\code\\c#\\apps\\cgshop\\cgshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|solutionrelative:cgshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|t:\\projects\\code\\c#\\apps\\cgshop\\cgshop\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|solutionrelative:cgshop\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|t:\\projects\\code\\c#\\apps\\cgshop\\cgshop\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|solutionrelative:cgshop\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|t:\\projects\\code\\c#\\apps\\cgshop\\cgshop\\components\\product.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{272A7FC2-0B23-47EA-9CCC-0B7C86F61E86}|cgshop\\cgshop.csproj|solutionrelative:cgshop\\components\\product.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 166,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,18 +27,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "cgshop",
-              "DocumentMoniker": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\cgshop.csproj",
-              "RelativeDocumentMoniker": "cgshop\\cgshop.csproj",
-              "ToolTip": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\cgshop.csproj",
-              "RelativeToolTip": "cgshop\\cgshop.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-10T07:23:46.685Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -89,87 +49,9 @@
               "RelativeDocumentMoniker": "cgshop\\wwwroot\\index.html",
               "ToolTip": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\wwwroot\\index.html",
               "RelativeToolTip": "cgshop\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-07-10T06:04:29.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Footer.razor",
-              "DocumentMoniker": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\Layout\\Footer.razor",
-              "RelativeDocumentMoniker": "cgshop\\Layout\\Footer.razor",
-              "ToolTip": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\Layout\\Footer.razor",
-              "RelativeToolTip": "cgshop\\Layout\\Footer.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-10T05:51:49.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Header.razor",
-              "DocumentMoniker": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\Layout\\Header.razor",
-              "RelativeDocumentMoniker": "cgshop\\Layout\\Header.razor",
-              "ToolTip": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\Layout\\Header.razor",
-              "RelativeToolTip": "cgshop\\Layout\\Header.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-10T05:09:00.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "cgshop\\Layout\\MainLayout.razor",
-              "ToolTip": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "cgshop\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-10T05:06:43.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "cgshop\\Models\\Product.cs",
-              "ToolTip": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\Models\\Product.cs",
-              "RelativeToolTip": "cgshop\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T01:36:52.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.razor",
-              "DocumentMoniker": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\Components\\Product.razor",
-              "RelativeDocumentMoniker": "cgshop\\Components\\Product.razor",
-              "ToolTip": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\Components\\Product.razor",
-              "RelativeToolTip": "cgshop\\Components\\Product.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-10T01:36:04.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Home.razor",
-              "DocumentMoniker": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "cgshop\\Pages\\Home.razor",
-              "ToolTip": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\Pages\\Home.razor",
-              "RelativeToolTip": "cgshop\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-07T04:36:18.454Z",
               "EditorCaption": ""
             }
           ]
