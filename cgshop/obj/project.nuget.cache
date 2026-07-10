@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tiUe1wTIsS0=",
+  "dgSpecHash": "sVegTvdre10=",
   "success": true,
   "projectFilePath": "T:\\Projects\\Code\\C#\\apps\\cgshop\\cgshop\\cgshop.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\jwrig\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.14\\microsoft.extensions.primitives.9.0.14.nupkg.sha512",
     "C:\\Users\\jwrig\\.nuget\\packages\\microsoft.jsinterop\\9.0.14\\microsoft.jsinterop.9.0.14.nupkg.sha512",
     "C:\\Users\\jwrig\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.14\\microsoft.jsinterop.webassembly.9.0.14.nupkg.sha512",
+    "C:\\Users\\jwrig\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.14\\microsoft.net.illink.tasks.9.0.14.nupkg.sha512",
     "C:\\Users\\jwrig\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.14\\microsoft.net.sdk.webassembly.pack.9.0.14.nupkg.sha512",
     "C:\\Users\\jwrig\\.nuget\\packages\\mudblazor\\9.6.0\\mudblazor.9.6.0.nupkg.sha512"
   ],

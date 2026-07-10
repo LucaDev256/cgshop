@@ -1,4 +1,8 @@
 is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
 build_property.MudDebugAnalyzer = 
 build_property.MudAllowedAttributePattern = 
 build_property.MudAllowedAttributeList = 
@@ -14,7 +18,7 @@ build_property.RootNamespace = cgshop
 build_property.RootNamespace = cgshop
 build_property.ProjectDir = T:\Projects\Code\C#\apps\cgshop\cgshop\
 build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
