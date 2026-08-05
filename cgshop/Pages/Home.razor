@@ -1,5 +1,7 @@
 ﻿@page "/"
 @inject HttpClient Http
+@inject NavigationManager navigationManager
+
 
 <PageTitle>Catalogue</PageTitle>
 
@@ -24,7 +26,11 @@
 
     protected override async Task OnInitializedAsync()
     {
-        products = await Http.GetFromJsonAsync<List<Models.Product>>("data/products.json") ?? new();
+        var basePath = navigationManager.BaseUri; // gives https://lucadev256.github.io/cgshop/
+        var dataPath = $"{basePath}data/products.json";
+        products = await Http.GetFromJsonAsync<List<Models.Product>>(dataPath) ?? new();
+    
+        // products = await Http.GetFromJsonAsync<List<Models.Product>>("data/products.json") ?? new();
     }
 
 }
