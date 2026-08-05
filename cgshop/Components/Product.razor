@@ -1,0 +1,34 @@
+﻿<MudCard >
+    <MudImage Src="@Prod.URLImage" ObjectFit="ObjectFit.Contain" style="width: 100%; height:300px;"></MudImage>
+    <MudText Typo="Typo.h5" Align="Align.Center">@Prod.Name</MudText>
+    <MudText Align="Align.Center">£@Prod.Price</MudText>
+    <MudText Align="Align.Center">@_weight</MudText>
+    <MudLink Style="align-self: center;" Href="@Prod.ProductURL" Target="_blank">
+        
+        <img src="@_icon" alt="@_marketplace" style="width:20px;height:20px;margin-left:6px;" />
+    </MudLink>
+
+</MudCard>
+
+@code {
+    [Parameter]
+    public Models.Product Prod { get; set; }
+    private string _icon = "";
+    private string _marketplace = "";
+    private string _weight = "";
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        if (Prod.URLImage == string.Empty)
+        {
+            Prod.URLImage = "media/noimgfound.png";
+        }
+
+        string iName = Services.IconMapper.GetIconName(Prod.Marketplace);
+        _marketplace = Prod.Marketplace.ToString();
+        _icon = "media/marketplaces/" + iName;
+        _weight = Prod.Weight.ToString() + "g";
+    }
+}

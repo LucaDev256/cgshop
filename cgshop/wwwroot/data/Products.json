@@ -1,0 +1,35 @@
+﻿[
+  {
+    "Name": "Love Heart Soap, Bubblegum Scented, Handmade Soap Bar",
+    "Price": 9.99,
+    "Weight": 245,
+    "URLImage": "https://m.media-amazon.com/images/I/81PItqu-rbL._AC_SL1500_.jpg",
+    "ProductURL": "https://www.amazon.co.uk/dp/B0GY2PZZZ8",
+    "Marketplace": "Amazon"
+  },
+  {
+    "Name": "Handmade Soap on a Rope, Unscented",
+    "Price": 8.99,
+    "Weight": 150,
+    "URLImage": "https://m.media-amazon.com/images/I/71XREKOZr5L._AC_SL1500_.jpg",
+    "ProductURL": "https://www.amazon.co.uk/dp/B0GSDW585J",
+    "Marketplace": "Amazon"
+  },
+  {
+    "Name": "Handmade Watermelon‑Themed Soap Gift Set",
+    "Price": 11.99,
+    "Weight": 360,
+    "URLImage": "https://m.media-amazon.com/images/I/8127EhxrZ0L._AC_SL1500_.jpg",
+    "ProductURL": "https://www.amazon.co.uk/dp/B0GNP9ZR1X",
+    "Marketplace": "Amazon"
+  },
+  {
+    "Name": "Handmade Soap Gift Set – Two‑Fragrance Glycerin Soap Bars",
+    "Price": 12.99,
+    "Weight": 350,
+    "URLImage": "https://m.media-amazon.com/images/I/81lnTh1B0UL._AC_SL1500_.jpg",
+    "ProductURL": "https://www.amazon.co.uk/dp/B0GNLPWDRJ",
+    "Marketplace": "Amazon"
+  }
+]
+
